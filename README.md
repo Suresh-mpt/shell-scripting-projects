@@ -1,4 +1,4 @@
-                                                    Sample shellscript project with github-api to list the number of users who have access
+Sample shellscript project with github-api to list the number of users who have access
 
 Clone the repo where we have the shellscript 
 
