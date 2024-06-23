@@ -16,7 +16,7 @@ change access permission of shellscriptfile and install jq parser
 
 ![change access permissions and jq install](https://github.com/Suresh-mpt/shell-scripting-projects/assets/173250817/5ef3cda1-df05-46c3-9ec5-a7bda96306f6)
 
-Run the shell script with respected command line arguments
+Run the shell script with respected command line arguments (repo owner / repo name )
 
 ![final output](https://github.com/Suresh-mpt/shell-scripting-projects/assets/173250817/7dd36fd3-dd5d-4825-a4d2-00294b19f501)
 
