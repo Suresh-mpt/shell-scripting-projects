@@ -44,7 +44,7 @@ function list_users_with_read_access {
  #  if [$# -ne $expected_cmd_args]; then
        #    echo " Please execute the Script with required cmd args "
       ##
-      #     echo " The providing cmd  arguments should be Repo-owner and Repo name "
+      #     .echo " The providing cmd  arguments should be Repo-owner and Repo name "
  # }
 
 #helper()
