@@ -20,6 +20,6 @@
 
 ![final output](https://github.com/Suresh-mpt/shell-scripting-projects/assets/173250817/7dd36fd3-dd5d-4825-a4d2-00294b19f501)
 
-6 ) If incorrect cmd args provided by user, throughing understandable error statements
+6 ) If incorrect cmd args provided by user, throughing understandable error statements .
 
 ![cmd  args error](https://github.com/Suresh-mpt/shell-scripting-projects/assets/173250817/358723b0-9475-46e1-9e71-971c7cc01344)
